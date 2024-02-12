@@ -57,8 +57,5 @@ see also: [NotificationsFragment](app/src/main/java/nl/lpap/declarativelistsapp/
 see also: [HomeFragment](app/src/main/java/nl/lpap/declarativelistsapp/ui/home/HomeFragment.kt)
 
 
-##### Source of inspiration:
-<https://proandroiddev.com/declarative-lists-on-android-with-recyclerview-viewbinding-4c1c7ead0e67>
-
 
 
